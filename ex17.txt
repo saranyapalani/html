@@ -1,0 +1,6 @@
+<html>
+<body>
+<h1>IMAGE TAG</h1>
+<img src="berry.jpg"width="200" height="190">
+</body>
+</html>

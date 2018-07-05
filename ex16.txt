@@ -1,0 +1,11 @@
+<html>
+<title>Definition list</title>
+<body>
+<dl>
+<dt>FLOWERS</dt>
+<dd>sunflower</dd>
+<dd>lily</dd>
+<dd>rose</dd>
+</dl>
+</body>
+</html>

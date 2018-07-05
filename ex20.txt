@@ -1,0 +1,21 @@
+<html>
+<table>
+<table border="5" bgcolor="EE82EE">
+<tr>
+<td>emp_no</td>
+<td>emp_name</td>
+<td>emp_age</td>
+</tr>
+<tr>
+<td>1001</td>
+<td>Ajith</td>
+<td>30</td>
+</tr>
+<tr>
+<td>1002</td>
+<td>Akash</td>
+<td>25</td>
+</tr>
+</table>
+</body>
+</html>

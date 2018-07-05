@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+h1 {
+    text-align: center;
+    color:blue;
+     
+}
+p{
+text-align:center;
+color:violet;
+}
+body{
+background-color:yellow;
+}
+
+</style>
+</head>
+<h1><u>CSS </u></h1>
+<br><p><u>Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML.</u></p></br>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<html>
+<head>
+<style>
+div {
+    border: 1px solid black;
+    margin: 25px 50px 75px 100px;
+    background-color:pink;
+}
+</style>
+</head>
+<body>
+
+<h3>CSS MARGIN</h3>
+
+<div>The CSS margin properties are used to create space around elements, outside of any defined borders.</div>
+<hr>
+</body>
+</html>

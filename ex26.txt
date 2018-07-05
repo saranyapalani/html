@@ -1,0 +1,15 @@
+<html>
+<head>
+<style>
+body {background-color: green;}
+h1   {color: blue;}
+p    {color: orange;}
+</style>
+</head>
+<body>
+
+<h1>INTERNAL CSS</h1>
+<p>saranya</p>
+
+</body>
+</html>

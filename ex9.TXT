@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>html</title>
+</head>
+<body>
+<h1>QUOTES</h1>
+<div align="right">
+<p>hard work never fails</p>
+</div>
+</body>
+</html>
+

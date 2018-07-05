@@ -1,0 +1,5 @@
+<html>
+<body background="paris.jpg"width="2000" height="1000">
+<h1>PARIS</h1>
+</body>
+</html>
