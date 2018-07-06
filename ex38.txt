@@ -1,0 +1,118 @@
+<html>
+ 
+<head><h1><center>ALL STYLE SHEETS</center></h1>
+ 
+<title>webpage
+ 
+</title>
+ 
+<link rel="stylesheet" href="rit.css" type="text/css">
+ 
+<style type="text/css"> 
+ 
+.vid{font-family:verdana;font-style:italic;color:green;text-align:center}
+ 
+.ani{font-family:tahoma;font-style:italic;font-size:20;text-align:center;}
+ 
+font{font-family:georgia;color:hotpink;font-size:20}
+ 
+ul{list-style-type:circle}
+ 
+</style>
+ 
+</head>
+ 
+<body>
+ 
+<ol style="list-style-type:lower-alpha">
+ 
+<b>RAJALAKSHMI GROUP OF INSTITUTIONS</b><br><br><br>
+ 
+<li>Rajalakshmi Engineering College
+ 
+<li>Rajalakshmi Institue Of Technology
+ 
+</ol>
+ 
+<p style="font-size:20pt;color:purple">RAJALAKSHMI GROUP OF INSTITUTIONS</p>
+ 
+<p class="ani">It is approved by AICTE(All India Council for Technical Education).
+ 
+It is affliated to Anna University.<br></p>
+ 
+<h2 class="vid">Rajalakshmi Institute Of Technology</h2>
+ 
+<br>
+ 
+<font>It is an ISO certified Institution</font><br>
+ 
+<br>
+ 
+<font>
+ 
+<h2>List of Courses offered</h2>
+ 
+<ul>
+ 
+<li>Information Technology</li>
+ 
+<li>CSE</li>
+ 
+<li>ECE</li>
+ 
+<li>EEE</li>
+ 
+<li>MECH</li>
+</ul>
+ 
+</font>
+ 
+<h3>Results of IT students</h3>
+ 
+<table width="100%" cellspacing="2" cellpadding="2" border="5">
+ 
+<tr>
+ 
+<th>S.NAME</th>
+
+<th>MARKS</th>
+ 
+<th>RESULT</th>
+ 
+</tr>
+ 
+<tr>
+ 
+<td align="center">Prabhu</td>
+ 
+<td align="center">99</td>
+ 
+<td align="center">pass</td>
+ 
+</tr>
+ 
+<tr>
+ 
+<td align="center">Ganesh</td>
+ 
+<td align="center">95</td>
+ 
+<td align="center">pass</td>
+ 
+</tr>
+ 
+<tr>
+ 
+<td align="center">Ashwini</td>
+ 
+<td align="center">91</td>
+ 
+<td align="center">pass</td>
+ 
+</tr>
+ 
+</table>
+ 
+</body>
+ 
+</html>

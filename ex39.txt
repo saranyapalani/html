@@ -1,0 +1,15 @@
+<html>
+<body>
+
+<h1>HTML Forms</h1>
+
+<form action="/action_page.php">
+  Name:<br>
+  <input type="text" name="name" value="Saranya">
+  <br>
+  id:<br>
+  <input type="text" name="id" value="45">
+  <br><br>
+</form> 
+</body>
+</html>

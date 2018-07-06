@@ -1,0 +1,23 @@
+<html>
+<head>
+<style> 
+h1{
+color:blue;
+}
+p.dotted {border-style: dotted solid;
+    border-width: 5px;
+border-color:red;}
+p.groove {border-style: groove;}
+p.dashed {border-style: dashed;}
+p.none {border-style: none;}
+</style>
+</head>
+<body>
+ 
+<h1>CSS BORDER</h1>
+<p class="dotted">It is a dotted border</p>
+<p class="groove">A groove border</p>
+<p class="dashed">It is a dashed border.</p>
+<p class="none">No border.</p>
+</body>
+</html>

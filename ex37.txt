@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+a:link, a:visited {
+    background-color: hotpink;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: underline;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: blue;
+}
+</style>
+</head>
+<body>
+<a href="https://in.yahoo.com/">LINK</a>
+</body>
+</html>
