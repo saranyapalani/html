@@ -1,0 +1,11 @@
+<html>
+<body>
+<form action="/action_page.php" method="get">
+<br>
+Select the bike you like:<br>
+<input type="checkbox" name="select">R15<br>
+<input type="checkbox" name="select"> KTM<br>
+<input type="checkbox" name="select"> PULSAR
+</form>
+</body>
+</html>

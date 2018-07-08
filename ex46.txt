@@ -1,0 +1,11 @@
+<html>
+<body>
+<form action="/action_page.php" method="get">
+<br>
+Select the bike you like:<br>
+<input type="radio" name="bike" value="R15">R15<br>
+<input type="radio" name="bike" Value="ktm"> KTM<br>
+<input type="radio" name="bike" value="pulsar"> PULSAR
+</form>
+</body>
+</html>
